@@ -48,7 +48,7 @@
 #define STEEM_BLOCKCHAIN_VERSION              ( version(0, 22, 1) )
 #define STEEM_NETWORK_TYPE                    "mainnet"
 
-#define STEEM_INIT_PUBLIC_KEY_STR             "BCL6GdwWaD7gZLzcfSSufp1iXBDSPuSQffsdPeQTgfJQkELZr7pQs"
+#define STEEM_INIT_PUBLIC_KEY_STR             "BCL7UeWG6hmFRtmJJEr68AEvjuMcxJZGEzSfE16ZnX866564USmPB"
 
 // private key : 5HtYSohP4YdrqTQNGEY678mELv8SjJbrRW8QXeimq2JHiYUKeE4
 #define  STEEM_CHAIN_ID (fc::sha256::hash("newzealand"))
